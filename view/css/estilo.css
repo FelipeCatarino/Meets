@@ -9,6 +9,14 @@ body {
     /* Remova overflow: hidden; */
 }
 
+.feed a{
+    
+        color: inherit;          /* ou color: black; para cor preta */
+        text-decoration: none;   /* remove o sublinhado */
+      
+      
+}
+
 #principal {
     display: flex;
     width: 100%;

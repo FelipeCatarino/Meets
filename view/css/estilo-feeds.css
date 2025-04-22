@@ -9,6 +9,19 @@
     --btn-hover: #ff5252;
 }
 
+.profile-img-mini {
+    width: 40px;
+   height: 40px;
+   border-radius: 50%;
+   object-fit: cover;
+   margin-right: 10px;
+   }
+   .navbar-user-area {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    }
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
